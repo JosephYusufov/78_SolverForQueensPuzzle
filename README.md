@@ -1,6 +1,6 @@
 # represent a solver for the queens problem
 
-## [your name here]'s remarks
+## Joseph's remarks
 
 ### citations / worked with / received help from
 * I received help in my understanding of the copy-constructor from Kenneth Chin, Manfred Tan, and Mr. Holmes on 2019-06-10 after school 
